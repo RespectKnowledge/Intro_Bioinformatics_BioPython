@@ -7,6 +7,6 @@ See more information at
 
 https://biopython.org/
 
-# DNA sequence dataset can be download from
+DNA sequence dataset can be download from
 
 https://www.ncbi.nlm.nih.gov/
